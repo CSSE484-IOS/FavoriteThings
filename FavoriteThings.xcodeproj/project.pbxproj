@@ -12,6 +12,7 @@
 		1B34A72D207682E3000B2E04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B34A72B207682E3000B2E04 /* Main.storyboard */; };
 		1B34A72F207682EC000B2E04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B34A72E207682EC000B2E04 /* Assets.xcassets */; };
 		1B34A732207682EC000B2E04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B34A730207682EC000B2E04 /* LaunchScreen.storyboard */; };
+		1B34A73A207683C4000B2E04 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1B34A739207683C4000B2E04 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1B34A72E207682EC000B2E04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B34A731207682EC000B2E04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B34A733207682EC000B2E04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B34A739207683C4000B2E04 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		1B34A726207682E2000B2E04 /* FavoriteThings */ = {
 			isa = PBXGroup;
 			children = (
+				1B34A739207683C4000B2E04 /* GoogleService-Info.plist */,
 				1B34A727207682E2000B2E04 /* AppDelegate.swift */,
 				1B34A729207682E2000B2E04 /* ViewController.swift */,
 				1B34A72B207682E3000B2E04 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B34A732207682EC000B2E04 /* LaunchScreen.storyboard in Resources */,
+				1B34A73A207683C4000B2E04 /* GoogleService-Info.plist in Resources */,
 				1B34A72F207682EC000B2E04 /* Assets.xcassets in Resources */,
 				1B34A72D207682E3000B2E04 /* Main.storyboard in Resources */,
 			);

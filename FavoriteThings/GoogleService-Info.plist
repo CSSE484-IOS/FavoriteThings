@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>923584139679-t5j6s3jelag9oeapl8u8p9l4um48jph0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923584139679-t5j6s3jelag9oeapl8u8p9l4um48jph0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdZoOfExkUY2llRMV5UlT_4A7gicWjM8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923584139679</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.rosehulman.fengy2.FavoriteThings</string>
+	<key>PROJECT_ID</key>
+	<string>fengy2-favorite-things-28e9e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fengy2-favorite-things-28e9e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923584139679:ios:0ca90461e4a5a426</string>
+	<key>DATABASE_URL</key>
+	<string>https://fengy2-favorite-things-28e9e.firebaseio.com</string>
+</dict>
+</plist>
